@@ -36,10 +36,10 @@ export default function LandingPage() {
           <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-black tracking-tighter mb-4 leading-none select-none">
             REAL <span className="text-transparent bg-clip-text bg-gradient-to-b from-blue-300 via-blue-500 to-blue-700 animate-gradient-y">TIME.</span>
           </h1>
-          
-          <h2 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tighter mb-8 leading-none select-none text-white/90">
-            REAL <span className="text-white/70">ASYNC.</span>
-          </h2>
+          <h2 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tighter mb-8 leading-none select-none text-white/90 uppercase">
+  RealAsync<span className="text-blue-500">.com</span>
+</h2>
+
 
           <div className="text-xl sm:text-2xl md:text-3xl font-extrabold tracking-tight text-white mb-10 max-w-3xl mx-auto leading-tight">
             AVAILABLE <span className="text-emerald-400">FOR SALE NOW</span>
