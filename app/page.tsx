@@ -15,7 +15,7 @@ export default function LandingPage() {
       <div className="fixed inset-0 z-1 opacity-[0.015] pointer-events-none bg-[url('/noise.svg')] bg-repeat" />
 
       <nav className="relative z-10 flex justify-between items-center px-6 md:px-10 py-8 max-w-7xl mx-auto border-b border-white/5">
-        <div className="text-2xl font-black tracking-tighter italic hover:text-blue-400 transition-colors cursor-default">REALASYNC.</div>
+        <div className="text-2xl font-black tracking-tighter italic hover:text-blue-400 transition-colors cursor-default">REALASYNC </div>
         <div className="flex gap-2 items-center px-4 py-1.5 rounded-full border border-emerald-500/20 bg-emerald-500/5 text-emerald-400 text-[11px] uppercase tracking-[0.2em] font-medium shadow-inner-dark">
           <DollarSign size={14} className="animate-pulse" /> Asset Verified & Secure
         </div>
