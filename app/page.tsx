@@ -1,6 +1,6 @@
 import React from 'react';
 import { ExternalLink, Shield, Zap, Globe, Cpu, ArrowRight, DollarSign } from 'lucide-react';
-
+ 
 export default function LandingPage() {
   return (
     <div className="min-h-screen bg-black text-white selection:bg-blue-500/30 font-sans antialiased overflow-x-hidden">
